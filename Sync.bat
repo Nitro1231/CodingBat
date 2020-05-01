@@ -1,0 +1,2 @@
+py AutoSync.py
+pause
